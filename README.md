@@ -1,2 +1,2 @@
 # HTML-CSS-FLAGS
-The website Contains Iceland Flag which is completely Developed using HTML/CSS
+The website Contains Nigeria and Iceland Flag which is completely Developed using HTML/CSS
